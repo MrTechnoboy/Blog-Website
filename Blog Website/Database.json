@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "title": "Vacations in New Zealand",
+      "body": "I want to go in New Zealand.",
+      "likes": 0,
+      "id": 3
+    },
+    {
+      "title": "Hi ",
+      "body": "Im in Vlora",
+      "likes": 0,
+      "id": 4
+    },
+    {
+      "title": "Africa",
+      "body": "I am in Africa",
+      "likes": 0,
+      "id": 5
+    },
+    {
+      "title": "Pushime ne paris",
+      "body": "Kete vere une vajta ne Paris",
+      "likes": 0,
+      "id": 6
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "Do you prefer Vue or React?",
+      "answer1": "Vue",
+      "answer2": "React"
+    }
+  ]
+}
